@@ -429,7 +429,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2374166256437191827, guid: 402cda287f16f8c45996f8254d4f1e57, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2757036243427077390, guid: 402cda287f16f8c45996f8254d4f1e57, type: 3}
       propertyPath: newClip
