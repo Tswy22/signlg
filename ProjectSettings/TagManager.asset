@@ -11,6 +11,8 @@ TagManager:
   - NPC
   - video
   - button
+  - door
+  - indoor2
   layers:
   - Default
   - TransparentFX

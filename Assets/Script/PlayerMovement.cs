@@ -11,8 +11,13 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
 
     Vector2 movement;
-    private string indoorSceneName = "InsideHouseScene";
- 
+    private string indoorSceneName ;
+    
+    private void Start()
+    {
+        // Ensuring that the player is moved to the correct position when the scene starts
+        SceneTransition.SpawnPlayerAtPosition(this.gameObject);
+    }
 
     // Update is called once per frame
     void Update()
@@ -43,12 +48,19 @@ public class PlayerMovement : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Check if the collider that entered the trigger is tagged "Indoor1"
         if (other.CompareTag("Indoor1"))
         {
-            // Make sure the scene you want to load is added to the build settings.
-            SceneManager.LoadScene(indoorSceneName);
+            SceneManager.LoadScene("InsideHouseScene");
+        }
+        else if (other.CompareTag("indoor2"))
+        {
+            SceneManager.LoadScene("InsideHouseScene2");
+        }
+        else if (other.CompareTag("Exit"))
+        {
+            SceneManager.LoadScene("SampleScene");
         }
     }
+
 }
 

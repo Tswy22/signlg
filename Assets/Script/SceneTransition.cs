@@ -1,65 +1,49 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System;
+
+[Serializable]
+public struct SceneTransitionInfo
+{
+    public string tag;
+    public string sceneName;
+    public Vector2 spawnPosition;
+}
 
 public class SceneTransition : MonoBehaviour
 {
-    [SerializeField] private string[] transitionScenes;
-    [SerializeField] private Vector2[] playerPositionsAfterTransition;
-    [SerializeField] private string doorIdentifier; // Add an identifier for the door
+    [SerializeField] private SceneTransitionInfo[] transitions;
 
-    private GameObject player;
-
-    private void Awake()
-    {
-        // Find the player in the scene and cache it
-        player = GameObject.FindGameObjectWithTag("Player");
-    }
+    // Static variables to retain the spawn position between scenes
+    public static Vector2 nextSpawnPosition;
+    private static bool shouldSpawnAtPosition = false;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            int doorIndex = GetDoorIndex(doorIdentifier);
-            if (doorIndex >= 0)
+            foreach (var transition in transitions)
             {
-                SceneManager.sceneLoaded += OnSceneLoaded;
-                SceneManager.LoadScene(transitionScenes[doorIndex]);
+                if (this.CompareTag(transition.tag))
+                {
+                    // Set the static variables
+                    nextSpawnPosition = transition.spawnPosition;
+                    shouldSpawnAtPosition = true;
+
+                    // Load the new scene
+                    SceneManager.LoadScene(transition.sceneName);
+                    break;
+                }
             }
         }
     }
 
-    private int GetDoorIndex(string identifier)
+    public static void SpawnPlayerAtPosition(GameObject player)
     {
-        for (int i = 0; i < transitionScenes.Length; i++)
+        if (shouldSpawnAtPosition)
         {
-            if (transitionScenes[i].Contains(identifier))
-            {
-                return i;
-            }
+            player.transform.position = nextSpawnPosition;
+            shouldSpawnAtPosition = false;
         }
-        return -1; // Return -1 if the identifier is not found
-    }
-
-    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
-    {
-        SceneManager.sceneLoaded -= OnSceneLoaded; // Unsubscribe from the event
-
-        int sceneIndex = GetSceneIndex(scene.name);
-        if (sceneIndex >= 0)
-        {
-            player.transform.position = playerPositionsAfterTransition[sceneIndex];
-        }
-    }
-
-    private int GetSceneIndex(string sceneName)
-    {
-        for (int i = 0; i < transitionScenes.Length; i++)
-        {
-            if (transitionScenes[i] == sceneName)
-            {
-                return i;
-            }
-        }
-        return -1; // Return -1 if the scene name is not found
     }
 }
