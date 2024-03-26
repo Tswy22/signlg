@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 0505eb9f728163648888fe06ddf1bb5f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: indoor-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 218
+        width: 125
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91058d999e74ba645a3b39d484549f4f
+      internalID: -1152241139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 103
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b17b62bb541ef49a9f2c63e7f36156
+      internalID: -1106411614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 200
+        width: 135
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51937727120a3fb499688605a297cd52
+      internalID: -1163537153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 316
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c18051b8b635784abdff81dc06650a8
+      internalID: 1182766303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 317
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206d3e23374dc54eba04ce4116ce83e
+      internalID: 943911227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54850f4e50af6724eb429beda0fa285c
+      internalID: -933833208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 321
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee90eef2f5c3e8040a6f8b93d14b0a51
+      internalID: -1081906164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 345
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b4495ddbb4d1479423e47bf5f39df
+      internalID: 1122626161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 208
+        width: 109
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ab3cd0892402b4cb4c2df1cd19ec63
+      internalID: -250591287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 326
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23230b4daf537ce42abade6f429c87ef
+      internalID: -1881276722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 316
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714557e2f05d2c46a4452b7b0de072f
+      internalID: 1589802579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 275
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d975644644414a90f69c157d1b908
+      internalID: -221180603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 294
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37530f62fc37b4a9aec13efc9497b1
+      internalID: 1928757641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 292
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6053767551e61d54eb323f7e980ff385
+      internalID: -1785810140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 292
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fed299274f3ce488082df997859de8
+      internalID: -890979266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 284
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c90d722b353b409f17004ae7174ab
+      internalID: 620341960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 251
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb22b62851f2a7849998a2a937e35dbd
+      internalID: 2035272901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 251
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d6ac398d3a4d4886e31eae28d404e
+      internalID: -703983530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 271
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5045c91d3bd06f7408e2408d20a1fad8
+      internalID: -2098636608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 259
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b43150774d67cf4896a1ecb3dedc1c2
+      internalID: -185069468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 260
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9d397dd6c1ee4ba0d4b8c036159a4
+      internalID: -1881715748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 251
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bd81cd510ce494495be2c1f1668b85
+      internalID: 1520746025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 250
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490f58a3531dcdf488c910b24232223d
+      internalID: -1065849131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 226
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941227e0f57bb84399cb9d72b3ad078
+      internalID: -1386546148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 222
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f447efe84d0c042bdb2dfcc3a5a548
+      internalID: 1063241838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 222
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25545879524ace84aa7c1643387408b6
+      internalID: -1914445098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 225
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3315a54c20e0054c9441965eef7ce37
+      internalID: -831516377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f716dc70ac8abb42b88ed5844aacd0c
+      internalID: 1129250315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 224
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1293433c9fcc844a9e2a4a114a3f76f
+      internalID: -1437326274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a86519fdf6a84d81c1f48c9f5908f
+      internalID: -679507614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 191
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f928b514d490394791eeeabdcb041de
+      internalID: -1119093252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 201
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10977e217c41255488a2bdfba2641724
+      internalID: -1150445848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 202
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7605da30fa15d468568605e0d9081a
+      internalID: -2059352753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 202
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b10e128d20e04491fdfb3ca74293f
+      internalID: 1429414880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 201
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa50c7526385c94886b0d229b952106
+      internalID: -649546954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 202
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a96f63eb1db9d498342401ab3c75b2
+      internalID: -837355212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3748c1fab9d146bba6ed933471a1e
+      internalID: 28093895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 105
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075e0ec021f3a0c458301a30a648d152
+      internalID: -1204247719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 160
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e0e4d5dc8110f438be4bd4244cf6f3
+      internalID: -1695889705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 77
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21c70045e0d5640b0da3536d8a8da6
+      internalID: -48242619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 105
+        width: 138
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfb03b9b2a8b841b6e21719d64c469
+      internalID: -1907145345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 104
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591a5d82836ddc499b4ca2d1e637862
+      internalID: -135736010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 104
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0c113c72573646a982ead9997c29b
+      internalID: 2086038612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 104
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32ca50d481aad3428af5353229e36ab
+      internalID: 275402560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 130
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0d2dee50e5aa4dbe256d123676c4c
+      internalID: 872794319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 107
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14198c8dd7dcbf04b8ae0bc53410c5c9
+      internalID: 501992956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 247
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff02b03db85efa4085f3646c8462869
+      internalID: -725774550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 55
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278102958b7bc1d4d8c31bc0cd09ab22
+      internalID: 1381020103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 55
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96688cf5824bb440810ca15e255dabb
+      internalID: -510704398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 75
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ddedf4d14c4b42b7bc15b3bd1c1cc
+      internalID: 1729872857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 75
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c696c5651e0edf4b8b55ab02f2e8f8f
+      internalID: -475941668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 76
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a1b1a8b40ff274b82cb2a1548950c3
+      internalID: -33898391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 10
+        width: 109
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff84ae97a338a4545882d39e231845a1
+      internalID: -743062334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 11
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f356bdd32bdd41b811d3a2fd562d7
+      internalID: 540695318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 11
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b13ebdfa84c4f42924ce2c166c92ae
+      internalID: 1958621271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 11
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12dea38608ffc4b96117243f247052
+      internalID: 1625072286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 11
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07faf810756809543ad46ac9b16c519f
+      internalID: -1947670877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 50
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56915cccbb87ba4cb6df9d016e01862
+      internalID: 1539464067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 48
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ef94629007644aa503f551188801a
+      internalID: 1118651734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 43
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e443eb4ce155bc449ab2ff763acdd725
+      internalID: 1867824590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6f92a576dc33045bf6012dace5d8ab
+      internalID: 250422374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 35
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c394d0a250a1c54384f214cadfd1388
+      internalID: -370200237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 10
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ddcb5be90650e479300be4a9b843ec
+      internalID: -277799761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f73dfba0496d943a206b54a881bea0
+      internalID: 939645554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 23
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0148c087ab6cf429244194de650257
+      internalID: -1617887708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoor-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 11
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998174fa066f8347a5e26dc76db7314
+      internalID: -1488877539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      indoor-removebg-preview_0: -1152241139
+      indoor-removebg-preview_1: -1106411614
+      indoor-removebg-preview_10: 1589802579
+      indoor-removebg-preview_11: -221180603
+      indoor-removebg-preview_12: 1928757641
+      indoor-removebg-preview_13: -1785810140
+      indoor-removebg-preview_14: -890979266
+      indoor-removebg-preview_15: 620341960
+      indoor-removebg-preview_16: 2035272901
+      indoor-removebg-preview_17: -703983530
+      indoor-removebg-preview_18: -2098636608
+      indoor-removebg-preview_19: -185069468
+      indoor-removebg-preview_2: -1163537153
+      indoor-removebg-preview_20: -1881715748
+      indoor-removebg-preview_21: 1520746025
+      indoor-removebg-preview_22: -1065849131
+      indoor-removebg-preview_23: -1386546148
+      indoor-removebg-preview_24: 1063241838
+      indoor-removebg-preview_25: -1914445098
+      indoor-removebg-preview_26: -831516377
+      indoor-removebg-preview_27: 1129250315
+      indoor-removebg-preview_28: -1437326274
+      indoor-removebg-preview_29: -679507614
+      indoor-removebg-preview_3: 1182766303
+      indoor-removebg-preview_30: -1119093252
+      indoor-removebg-preview_31: -1150445848
+      indoor-removebg-preview_32: -2059352753
+      indoor-removebg-preview_33: 1429414880
+      indoor-removebg-preview_34: -649546954
+      indoor-removebg-preview_35: -837355212
+      indoor-removebg-preview_36: 28093895
+      indoor-removebg-preview_37: -1204247719
+      indoor-removebg-preview_38: -1695889705
+      indoor-removebg-preview_39: -48242619
+      indoor-removebg-preview_4: 943911227
+      indoor-removebg-preview_40: -1907145345
+      indoor-removebg-preview_41: -135736010
+      indoor-removebg-preview_42: 2086038612
+      indoor-removebg-preview_43: 275402560
+      indoor-removebg-preview_44: 872794319
+      indoor-removebg-preview_45: 501992956
+      indoor-removebg-preview_46: -725774550
+      indoor-removebg-preview_47: 1381020103
+      indoor-removebg-preview_48: -510704398
+      indoor-removebg-preview_49: 1729872857
+      indoor-removebg-preview_5: -933833208
+      indoor-removebg-preview_50: -475941668
+      indoor-removebg-preview_51: -33898391
+      indoor-removebg-preview_52: -743062334
+      indoor-removebg-preview_53: 540695318
+      indoor-removebg-preview_54: 1958621271
+      indoor-removebg-preview_55: 1625072286
+      indoor-removebg-preview_56: -1947670877
+      indoor-removebg-preview_57: 1539464067
+      indoor-removebg-preview_58: 1118651734
+      indoor-removebg-preview_59: 1867824590
+      indoor-removebg-preview_6: -1081906164
+      indoor-removebg-preview_60: 250422374
+      indoor-removebg-preview_61: -370200237
+      indoor-removebg-preview_62: -277799761
+      indoor-removebg-preview_63: 939645554
+      indoor-removebg-preview_64: -1617887708
+      indoor-removebg-preview_65: -1488877539
+      indoor-removebg-preview_7: 1122626161
+      indoor-removebg-preview_8: -250591287
+      indoor-removebg-preview_9: -1881276722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
