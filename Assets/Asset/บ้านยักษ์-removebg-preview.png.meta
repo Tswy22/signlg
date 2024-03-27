@@ -126,12 +126,12 @@ TextureImporter:
       name: "\u0E1A\u0E49\u0E32\u0E19\u0E22\u0E31\u0E01\u0E29\u0E4C-removebg-preview_0"
       rect:
         serializedVersion: 2
-        x: 17
-        y: 207
+        x: 19
+        y: 234
         width: 156
-        height: 236
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -139,6 +139,27 @@ TextureImporter:
       bones: []
       spriteID: 0d0df17568000954eacc03ef4f12cfa6
       internalID: 1584673028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0E1A\u0E49\u0E32\u0E19\u0E22\u0E31\u0E01\u0E29\u0E4C-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 559
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c67d005c100442b64fb9445ad8c1b
+      internalID: 84020288
       vertices: []
       indices: 
       edges: []
@@ -155,6 +176,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       "\u0E1A\u0E49\u0E32\u0E19\u0E22\u0E31\u0E01\u0E29\u0E4C-removebg-preview_0": 1584673028
+      "\u0E1A\u0E49\u0E32\u0E19\u0E22\u0E31\u0E01\u0E29\u0E4C-removebg-preview_1": 84020288
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

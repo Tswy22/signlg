@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5449109108356746232}
   m_Layer: 0
   m_Name: door1
-  m_TagString: Indoor1
+  m_TagString: indoor3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -143,6 +143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 638096311b316854f8ca0d4c42604ffa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InsideHouseScene: InsideHouseScene
-  playerPositionAfterTransition: {x: -4.89, y: -2.78}
-  Player: {fileID: 0}
+  transitions:
+  - tag: indoor3
+    sceneName: InsideHouseScene3
+    spawnPosition: {x: 0.84, y: -4.66}

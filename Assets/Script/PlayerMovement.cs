@@ -60,6 +60,23 @@ public class PlayerMovement : MonoBehaviour
         {
             SceneManager.LoadScene("SampleScene");
         }
+        else if (other.CompareTag("indoor3"))
+        {
+            SceneManager.LoadScene("InsideHouseScene3");
+        }
+        else if (other.CompareTag("indoor4"))
+        {
+            SceneManager.LoadScene("InsideHouseScene3");
+        }
+        else if (other.CompareTag("indoor5"))
+        {
+            SceneManager.LoadScene("InsideHouseScene5");
+        }
+        else if (other.CompareTag("doorgame"))
+        {
+            SceneManager.LoadScene("gamecenter");
+        }
+        
     }
 
 }

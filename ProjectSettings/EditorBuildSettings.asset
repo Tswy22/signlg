@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InsideHouseScene2.unity
     guid: 871b07b0ff21c97488d905610d53c773
+  - enabled: 1
+    path: Assets/Scenes/InsideHouseScene3.unity
+    guid: 7038434877d2b97438e0c3ff8c775af4
+  - enabled: 1
+    path: Assets/Scenes/gamecenter.unity
+    guid: 10206c544fb1a924abc722aba10f4666
+  - enabled: 1
+    path: Assets/Scenes/InsideHouseScene4.unity
+    guid: a18b17fe13f1deb47b7c887eaf22d38d
+  - enabled: 1
+    path: Assets/Scenes/InsideHouseScene5.unity
+    guid: 957c150d1a6fc00478ca3fdc442c7af9
   m_configObjects: {}

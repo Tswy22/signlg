@@ -13,6 +13,11 @@ TagManager:
   - button
   - door
   - indoor2
+  - indoor3
+  - indoor4
+  - indoor5
+  - game
+  - doorgame
   layers:
   - Default
   - TransparentFX
