@@ -66,7 +66,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else if (other.CompareTag("indoor4"))
         {
-            SceneManager.LoadScene("InsideHouseScene3");
+            SceneManager.LoadScene("InsideHouseScene4");
         }
         else if (other.CompareTag("indoor5"))
         {

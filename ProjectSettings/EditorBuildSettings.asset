@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InsideHouseScene5.unity
     guid: 957c150d1a6fc00478ca3fdc442c7af9
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 8dce265fadf1e1e419bcb032e6bedfe5
   m_configObjects: {}
