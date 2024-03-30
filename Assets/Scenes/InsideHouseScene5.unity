@@ -593,6 +593,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2707160075339450454, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 32900000, guid: 9f730f3a68404a64899a0f319ee32f0a, type: 3}
+    - target: {fileID: 2707160075339450454, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_name
+      objectReference: {fileID: 0}
+    - target: {fileID: 2707160075339450454, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: "\u0E1E\u0E23\u0E38\u0E48\u0E07\u0E19\u0E35\u0E49"
+      objectReference: {fileID: 0}
     - target: {fileID: 2809889568347598237, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
       propertyPath: m_Name
       value: "\u0E27\u0E31\u0E19\u0E19\u0E35\u0E49"
@@ -601,14 +613,46 @@ PrefabInstance:
       propertyPath: m_Text
       value: "\u0E27\u0E31\u0E19\u0E19\u0E35\u0E49"
       objectReference: {fileID: 0}
+    - target: {fileID: 3702215889029926741, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: newClip
+      value: 
+      objectReference: {fileID: 32900000, guid: 1494a380aa54e574ea0d73f53f12a2be, type: 3}
+    - target: {fileID: 5472354201128640862, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 32900000, guid: 53cfabb9045bc944ca5b02fa9f17952b, type: 3}
+    - target: {fileID: 5472354201128640862, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_name
+      objectReference: {fileID: 0}
+    - target: {fileID: 5472354201128640862, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: "\u0E27\u0E31\u0E19\u0E19\u0E35\u0E49"
+      objectReference: {fileID: 0}
     - target: {fileID: 5568893025133104851, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
       propertyPath: m_Name
+      value: "\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E27\u0E32\u0E19"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6697429552661127242, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 32900000, guid: 1494a380aa54e574ea0d73f53f12a2be, type: 3}
+    - target: {fileID: 6697429552661127242, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_name
+      objectReference: {fileID: 0}
+    - target: {fileID: 6697429552661127242, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: "\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E27\u0E32\u0E19"
       objectReference: {fileID: 0}
     - target: {fileID: 7420691950825806688, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 55
       objectReference: {fileID: 0}
+    - target: {fileID: 7426034725377141081, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: newClip
+      value: 
+      objectReference: {fileID: 32900000, guid: 9f730f3a68404a64899a0f319ee32f0a, type: 3}
     - target: {fileID: 7596583957452602058, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -705,6 +749,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -57
       objectReference: {fileID: 0}
+    - target: {fileID: 8952643115251693677, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
+      propertyPath: newClip
+      value: 
+      objectReference: {fileID: 32900000, guid: 53cfabb9045bc944ca5b02fa9f17952b, type: 3}
     - target: {fileID: 8963122163058602915, guid: 96f9c7ca40c2dd540baf2eb646d71102, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -2
