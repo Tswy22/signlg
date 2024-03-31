@@ -1250,7 +1250,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1723928058}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df88df31b0d810745a84cac9518dc839, type: 3}
+  m_Script: {fileID: 11500000, guid: 4fe90b8b92a403242aa039803913478e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: SampleScene
