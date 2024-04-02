@@ -18,6 +18,7 @@ TagManager:
   - indoor5
   - game
   - doorgame
+  - minimap
   layers:
   - Default
   - TransparentFX
@@ -28,7 +29,7 @@ TagManager:
   - ground
   - house
   - player
-  - 
+  - minimap
   - 
   - 
   - 
